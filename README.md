@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KoushaDev
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate with the top universities
+- 💞️ I’m looking to collaborate with the top Companies
 - 📫 How to reach me: pishvakooshan5@gmail.com
 
 <!---
