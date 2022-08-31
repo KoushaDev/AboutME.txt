@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate with the top Companies
 - 📫 How to reach me: pishvakooshan5@gmail.com
-  ------ Certifications ✨ ------
+* ------ Certifications ✨ ------
   - HTML certification ="https://www.sololearn.com/Certificate/1014-20464200/jpg"
 
 <!---
